@@ -8,4 +8,3 @@ git remote add origin https://github.com/Cigiis/firs-one.git
 git add filename1.txt filename2.js
 
 # OR stage everything
-git add .
